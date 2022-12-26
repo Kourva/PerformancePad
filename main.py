@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Performance Pad GUI app Made in Python
-## GITHUB: https://github.com/Izolabela/PerformancePad
+## GITHUB: https://github.com/Kourva/PerformancePad
 
 # Imports
 from sys import exit
