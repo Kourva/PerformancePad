@@ -213,7 +213,7 @@ class PerformancePadApp(MDApp):
         # Github Dialog
         self.Github = MDDialog(
             title = "Developer",
-            text = "Izolabela: https://github.com/Izolabela",
+            text = "Github: https://github.com/Kourva",
             buttons = [
                 MDFlatButton(
                     text = "Close",
