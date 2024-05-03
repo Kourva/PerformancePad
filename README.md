@@ -6,7 +6,7 @@
 # Install
 + clone
 ```bash
-git clone https://github.com/Kourva/PerformancePad && PerformancePad && chmod +x install.sh
+git clone https://github.com/Kourva/PerformancePad && cd PerformancePad && chmod +x install.sh
 ```
 + requirements
 ```bash
