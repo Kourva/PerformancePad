@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Performance Pad GUI app Made in Python
-## GITHUB: https://github.com/kozyol/PerformancePad
+## GITHUB: https://github.com/Kourva/PerformancePad
 
 # Imports
 from sys import exit
@@ -213,7 +213,7 @@ class PerformancePadApp(MDApp):
         # Github Dialog
         self.Github = MDDialog(
             title = "Developer",
-            text = "Github: https://github.com/kozyol",
+            text = "Github: https://github.com/Kourva",
             buttons = [
                 MDFlatButton(
                     text = "Close",
